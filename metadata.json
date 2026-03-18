@@ -1,0 +1,5 @@
+{
+  "name": "VitaLens AI",
+  "description": "AI-powered medical test interpreter to help you understand your lab results in plain language.",
+  "requestFramePermissions": []
+}
